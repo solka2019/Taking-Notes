@@ -12,6 +12,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ![index.html-page](public/assets/images/first-page.PNG)
 ![notes.html-page](public/assets/images/second-page.PNG)
 
-## GitHub Page
-https://solka2019.github.io/Note-Taker/.
-
+## Heroku Page
+https://taking-notes-app.herokuapp.com/notes.html
