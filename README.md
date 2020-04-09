@@ -15,5 +15,3 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## GitHub Page
 https://solka2019.github.io/Note-Taker/.
 
-## Question
-When we type the localhost port number, the pages load correctly (static - we type /index.htm and notes.html), however, when I copy the whole page "io" address and just paste that address, the second page (where we type the notes) doesn't load correctly. Do you know why? 
