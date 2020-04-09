@@ -1,0 +1,23 @@
+{
+  "name": "taking-notes",
+  "version": "1.0.0",
+  "description": "Homework 11",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solka2019/Taking-Notes.git"
+  },
+  "author": "Marissol Karczeski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solka2019/Taking-Notes/issues"
+  },
+  "homepage": "https://github.com/solka2019/Taking-Notes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
